@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Nao Medical</name>
+		<atom:link rel="related" href="https://www.naomedical.com" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Nao Medical Bronx, Bartow Mall]]></name>
+				<address><![CDATA[2063A Bartow Avenue, Bronx, New York, 10475, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Need urgent care near me in the Bronx? Nao Medical in Bartow Mall, Bronx, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.8282964,40.8700029,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Jackson Heights, Queens]]></name>
+				<address><![CDATA[80-10 Northern Boulevard, Jackson Heights, New York, 11372, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for a Jackson Heights patient care clinic? Nao Medical in Jackson Heights, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.8868993,40.7551775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Jamaica, Queens]]></name>
+				<address><![CDATA[90-18 Sutphin Blvd, Jamaica, New York, 11435, United States]]></address>
+				<phoneNumber><![CDATA[(917) 451-3951]]></phoneNumber>
+				<description><![CDATA[Looking for a Jamaica, Queens urgent care? Nao Medical Jamaica, Queens, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.8083996,40.702552,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Mineola, NY]]></name>
+				<address><![CDATA[135 Mineola Blvd, Mineola, New York, 11501, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Need medical treatment or care in Mineola? Nao Medical urgent care Mineola, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.6412264,40.7426624,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Hicksville, NY]]></name>
+				<address><![CDATA[232 W. Old Country Road, Hicksville, New York, 11801, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for a Hicksville medical care clinic? Nao Medical in Hicksville, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.5291963,40.762182,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Long Island City]]></name>
+				<address><![CDATA[30-07 36th Ave., Queens, New York, 11106, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[In need of Long Island medical services? Nao Medical Long Island City, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9301804,40.7569294,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Bronx, 174th Street]]></name>
+				<address><![CDATA[932 East 174th Street, Bronx, New York, 10460, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for a Bronx urgent care near me? Nao Medical in 174th street, Bronx, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.887255,40.83702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Astoria, Queens]]></name>
+				<address><![CDATA[37-15 23rd Ave, Astoria, New York, 11105, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for urgent care services in Astoria? Nao Medical Astoria, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9089274,40.7719013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Corona, NY]]></name>
+				<address><![CDATA[100-22 37th Avenue, Corona, New York, 11368, United States]]></address>
+				<phoneNumber><![CDATA[(917) 905-2388]]></phoneNumber>
+				<description><![CDATA[Looking for a Corona urgent care near me? Nao Medical in Corona, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.8663037,40.7525637,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Downtown, Manhattan]]></name>
+				<address><![CDATA[259 1st Ave., Manhattan, New York, 10003, United States]]></address>
+				<phoneNumber><![CDATA[(917) 905-2388]]></phoneNumber>
+				<description><![CDATA[Looking for a Manhattan walk-in clinic? Nao Medical in Downtown, Manhattan, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9822004,40.7322147,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Church Ave, Brooklyn]]></name>
+				<address><![CDATA[3805 Church Ave., Brooklyn, New York, 11203, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for a Brooklyn walk-in clinic? Nao Medical in Church Ave, Brooklyn, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9415774,40.6514423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Crown Heights, Brooklyn]]></name>
+				<address><![CDATA[341 Eastern Parkway, Brooklyn, New York, 11216, United States]]></address>
+				<phoneNumber><![CDATA[(917) 905-2388]]></phoneNumber>
+				<description><![CDATA[Looking for a Brooklyn clinic near me? Nao Medical in Crown Heights, Brooklyn, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9573167,40.6709591,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Nao Medical Williamsburg, Brooklyn]]></name>
+				<address><![CDATA[308 Graham Ave, Brooklyn, New York, 11211, United States]]></address>
+				<phoneNumber><![CDATA[(917) 310-3371]]></phoneNumber>
+				<description><![CDATA[Looking for a Brooklyn clinic near me? Nao Medical Williamsburg, Brooklyn, NY provides the best medical services where and when you need them most.]]></description>
+				<Point>
+					<coordinates>-73.9438907,40.7130162,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

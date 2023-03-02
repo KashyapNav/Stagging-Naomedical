@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?4adrhn');
+  src:  url('../fonts/icomoon.eot?4adrhn#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?4adrhn') format('truetype'),
+    url('../fonts/icomoon.woff?4adrhn') format('woff'),
+    url('../fonts/icomoon.svg?4adrhn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-globe-line:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-group-chat:before {
+  content: "\e90e";
+  color: #1e3565;
+}
+.icon-heart-beat:before {
+  content: "\e90f";
+}
+.icon-line-heart-plus:before {
+  content: "\e910";
+}
+.icon-plus-heart:before {
+  content: "\e911";
+}
+.icon-plus-about:before {
+  content: "\e912";
+}
+.icon-med-location:before {
+  content: "\e90c";
+  color: #1e3565;
+}
+.icon-document:before {
+  content: "\e903";
+  color: #1e3565;
+}
+.icon-stethoscope:before {
+  content: "\e904";
+  color: #1e3565;
+}
+.icon-hospital:before {
+  content: "\e905";
+  color: #1e3565;
+}
+.icon-recycle:before {
+  content: "\e906";
+  color: #1e3565;
+}
+.icon-circleplus:before {
+  content: "\e907";
+  color: #1e3565;
+}
+.icon-btn-arrow-blue:before {
+  content: "\e908";
+  color: #1e3565;
+}
+.icon-list-arrow:before {
+  content: "\e909";
+  color: #1e3565;
+}
+.icon-quote:before {
+  content: "\e90a";
+  color: #9acf8c;
+}
+.icon-btn-arrow-white:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-nao:before {
+  content: "\e902";
+  color: #163970;
+}
+.icon-nao-white:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-naomedical:before {
+  content: "\e900";
+  color: #fff;
+}

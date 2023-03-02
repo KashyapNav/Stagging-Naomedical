@@ -1,0 +1,12 @@
+# Configuration
+/wp-config.php
+/.htaccess
+
+# Log files
+*.log
+
+# Robots file
+robots.txt
+
+# Insurancefees file
+insurancefees.php
